@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/tw-design/',
+    base: process.env.VITE_BASE ?? '/tw-design/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
