@@ -155,8 +155,8 @@ export function Contact() {
               </div>
               <h3 className="text-xl mb-2">Email</h3>
               <p className="text-gray-600 mb-2">Send us an email</p>
-              <a href="mailto:info@tendawrap.com.au" className="text-blue-600 hover:text-blue-700">
-                info@tendawrap.com.au
+              <a href="mailto:info@tenderwrap.com.au" className="text-blue-600 hover:text-blue-700">
+                info@tenderwrap.com.au
               </a>
             </div>
 

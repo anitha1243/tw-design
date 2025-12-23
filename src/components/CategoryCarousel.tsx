@@ -58,7 +58,7 @@ export function CategoryCarousel() {
             Where Flavor Meets Freshness
           </h2>
           <p className="text-gray-600 text-lg">
-            At Tenda Wrap, every item on our menu is crafted with passion, using fresh 
+            At Tender Wrap, every item on our menu is crafted with passion, using fresh 
             ingredients and authentic recipes. Explore our variety and find your favorite.
           </p>
         </div>

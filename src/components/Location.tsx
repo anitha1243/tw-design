@@ -15,7 +15,7 @@ export function Location() {
             Visit Us
           </div>
           <h2 className="text-4xl md:text-5xl mb-4">
-            Find Tenda Wrap
+            Find Tender Wrap
           </h2>
           <p className="text-gray-600 text-lg">
             Come visit us and experience the difference of fresh, made-to-order wraps.
@@ -57,8 +57,8 @@ export function Location() {
                 </div>
                 <div>
                   <h3 className="text-xl mb-2">Email</h3>
-                  <a href="mailto:info@tendawrap.com.au" className="text-gray-600 hover:text-red-600 transition-colors">
-                    info@tendawrap.com.au
+                  <a href="mailto:info@tenderwrap.com.au" className="text-gray-600 hover:text-red-600 transition-colors">
+                    info@tenderwrap.com.au
                   </a>
                 </div>
               </div>
@@ -91,7 +91,7 @@ export function Location() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Tenda Wrap Location"
+              title="Tender Wrap Location"
             />
           </div>
         </div>

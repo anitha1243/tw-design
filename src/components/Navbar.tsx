@@ -45,7 +45,7 @@ export function Navbar() {
           <button onClick={() => scrollToSection('hero')} className="flex items-center">
             <img
               src={logo}
-              alt="Tenda Wrap"
+              alt="Tender Wrap"
               className="h-16 w-16 rounded-full object-cover shadow-md ring-2 ring-red-100"
             />
           </button>

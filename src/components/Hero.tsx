@@ -78,8 +78,8 @@ export function Hero() {
             <div className="absolute inset-0 bg-gradient-to-br from-red-400/30 to-orange-400/30 rounded-[3rem] blur-3xl" />
             <div className="relative">
               <ImageWithFallback
-                src="/ChatGPT-Image-Jul-24-2025-12_40_59-PM.png"
-                alt="Delicious wrap presentation"
+                src="/wrap-and-fries.jpg"
+                alt="Delicious wrap and fries presentation"
                 className="w-full h-auto rounded-[3rem] shadow-2xl"
               />
             </div>

@@ -56,13 +56,13 @@ export function About() {
 
           <div className="order-1 md:order-2">
             <div className="inline-block px-4 py-2 bg-red-100 text-red-700 rounded-full mb-4">
-              About Tenda Wrap
+              About Tender Wrap
             </div>
             <h2 className="text-4xl md:text-5xl mb-6">
               Fresh, Healthy & Authentic
             </h2>
             <p className="text-gray-600 text-lg mb-6">
-              At Tenda Wrap, we believe in serving food that's not just delicious, but also 
+              At Tender Wrap, we believe in serving food that's not just delicious, but also 
               healthy and made with authentic recipes. Our journey started with a simple goal: 
               to bring fresh, flavorful wraps to our community.
             </p>

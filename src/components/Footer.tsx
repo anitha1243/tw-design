@@ -15,7 +15,7 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src={logo} alt="Tenda Wrap" className="h-16 w-16" />
+              <img src={logo} alt="Tender Wrap" className="h-16 w-16" />
             </div>
             <p className="text-gray-400 mb-4">
               Fresh, healthy, and delicious wraps made daily with love and authentic flavors.
@@ -103,8 +103,8 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-red-500 flex-shrink-0" />
-                <a href="mailto:info@tendawrap.com.au" className="text-gray-400 hover:text-red-400 transition-colors">
-                  info@tendawrap.com.au
+                <a href="mailto:info@tenderwrap.com.au" className="text-gray-400 hover:text-red-400 transition-colors">
+                  info@tenderwrap.com.au
                 </a>
               </li>
             </ul>
@@ -114,7 +114,7 @@ export function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-center md:text-left">
-              &copy; 2025 Tenda Wrap. All rights reserved.
+              &copy; 2025 Tender Wrap. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-gray-400 hover:text-red-400 transition-colors">
